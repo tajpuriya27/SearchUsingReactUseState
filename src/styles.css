@@ -1,0 +1,12 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.App > input {
+  font-size: 20px;
+  padding: 5px;
+  line-height: 2;
+}
+p {
+  margin: 0.5rem;
+}
